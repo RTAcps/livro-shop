@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Programacao\IGTI\3.ASP.NET_Core\LivroShop\obj\Debug\netcoreapp3.1\LivroShop.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Programacao\IGTI\3.ASP.NET_Core\LivroShop\obj\Debug\netcoreapp3.1\LivroShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Programacao\IGTI\3.ASP.NET_Core\LivroShop\obj\Debug\netcoreapp3.1\LivroShop.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Programacao\IGTI\3.ASP.NET_Core\LivroShop\obj\Debug\netcoreapp3.1\LivroShop.AssemblyInfo.cs
+C:\Users\User\Documents\Programacao\IGTI\3.ASP.NET_Core\LivroShop\obj\Debug\netcoreapp3.1\LivroShop.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Programacao\IGTI\3.ASP.NET_Core\LivroShop\obj\Debug\netcoreapp3.1\LivroShop.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Documents\Programacao\IGTI\3.ASP.NET_Core\LivroShop\obj\Debug\netcoreapp3.1\LivroShop.MvcApplicationPartsAssemblyInfo.cache
